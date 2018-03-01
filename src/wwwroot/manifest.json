@@ -1,7 +1,7 @@
 {
-  "name": "Miniblog.Core",
-  "short_name": "Miniblog.Core",
-  "description": "A short description of the blog.",
+  "name": "A blog about software development",
+  "short_name": "A blog about software development",
+  "description": "My experiences in the world of software development.",
   "icons": [
     {
       "src": "/img/icon192x192.png",
